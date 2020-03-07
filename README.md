@@ -1,2 +1,5 @@
-# error-templates
-Easy to use error templates, made with Google Drawings. ❌🖼️
+# Error Templates
+A set of easy to use error page images. Edit them as you wish or use them as they are presented.
+
+### All Images
+soon
